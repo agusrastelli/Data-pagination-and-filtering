@@ -1,4 +1,4 @@
-# Data-pagination-and-filtering
+# Data pagination and filtering
 
 This is my project 2 for the Full Stack JavaScript Techdegree (Treehouse). With an initial list of 42 students, including name, email, and picture I applied JavaScript skills learned to display the first nine students on the page. I also added pagination buttons, that the user can click to display different pages of students.
 
